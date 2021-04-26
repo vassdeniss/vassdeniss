@@ -95,6 +95,7 @@ There are a lot of things I wanna work on and there are a lot of things I want t
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vassdeniss&count_private=true&show_icons=true&theme=great-gatsby" />
 </a>
 <br>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vassdeniss&theme=chartreuse-dark&layout=compact" />
 </a>
