@@ -100,14 +100,14 @@ Pizza Clicker - Cookie Clicker clone in javaScript
 
 ## 📈 Github Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vassdeniss&count_private=true&show_icons=true&theme=great-gatsby" />
+<a href="https://github.com/vassdeniss/vassdeniss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vassdeniss&line_height=27&count_private=true&show_icons=true&theme=great-gatsby&include_all_commits=true" />
 </a>
-<br>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vassdeniss&theme=chartreuse-dark&layout=compact" />
+<a href="https://github.com/vassdeniss/vassdeniss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vassdeniss&theme=chartreuse-dark" />
 </a>
+
+
 
 # Thanks for visiting my profile! Have a nice day! 😉
 
