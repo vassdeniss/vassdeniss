@@ -26,7 +26,7 @@ Frameworks like:
 * Bootstrap 
 * jQuery 
 * Tailwind 
-* Alpine 
+* AlpineJs
 
 Libraries like: 
 * Discord.js 
@@ -37,14 +37,23 @@ I've also been learning the basics of other languages like
 * Python 
 * Rust
 
-And some other ones as well!
-
 ## 💻 Projects 
 Some of my projects (finished or unfinished) are already here on my github page, so feel free to take a look! 
 
 I've worked on many small projects for fun or just for practicing my skills in a language. I've made apps, a few games, bots and mostly websites for my own projects, friends that need a website made or for various school projects assigned. 
 
 There are a lot of things I wanna work on and there are a lot of things I want to learn but that will happen with enough time. 
+
+### 🥇 Proudest Projects
+Click 'n Fight: The Fantasy Clicker RPG - RPG Clicker game made in C#
+
+[Website](https://vassdeniss.github.io/clicknfight/)
+
+Pizza Clicker - Cookie Clicker clone in javaScript
+
+[Git Page](https://github.com/vassdeniss/pizzaclicker)
+
+[Web Page](https://vassdeniss.github.io/pizzaclicker/)
 
 ## 🔧 Tools 
 ### Operating System
