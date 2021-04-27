@@ -6,7 +6,7 @@ I'm from Bulgaria and currently in the 11th grade as of 2020/2021 studying graph
 ## 📗 Hobbies 
 As I said I am studying graphic design and technologies. I've been studying graphic design for 4 years now and computer science for half an year. 
 
-Personally I find programming more fun that graphic design and that's what I am prioritising. I love reading and learning about all things technology everyday. 
+Personally I find programming more fun than graphic design and that's what I am prioritising. I love reading and learning about all things technology everyday. 
 
 In my free time I lvoe to play a lot of games, program on some small projects and I love solving rubik cubes. 
 
