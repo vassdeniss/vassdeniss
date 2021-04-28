@@ -57,29 +57,30 @@ Pizza Clicker - Cookie Clicker clone in javaScript
 
 ## 🔧 Tools 
 ### Operating System
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+![](https://img.shields.io/static/v1?label=OS&message=Windows&color=orange&style=plastic&logo=Windows)
 
 ### Programming
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+![](https://img.shields.io/static/v1?label=Code&message=CSharp&color=orange&style=plastic&logo=C-sharp)
+![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=orange&style=plastic&logo=JavaScript)
+![](https://img.shields.io/static/v1?label=Code&message=Java&color=orange&style=plastic&logo=Java)
+![](https://img.shields.io/static/v1?label=Code&message=HTML&color=orange&style=plastic&logo=HTML5)
+![](https://img.shields.io/static/v1?label=Code&message=CSS&color=orange&style=plastic&logo=CSS3)
+![](https://img.shields.io/static/v1?label=Tool&message=Node.js&color=orange&style=plastic&logo=Node.js)
+![](https://img.shields.io/static/v1?label=Framework&message=Bootstrap&color=orange&style=plastic&logo=Bootstrap)
+![](https://img.shields.io/static/v1?label=Framework&message=Tailwind&color=orange&style=plastic&logo=Tailwind-CSS)
+![](https://img.shields.io/static/v1?label=Framework&message=Alpine.js&color=orange&style=plastic)
+![](https://img.shields.io/static/v1?label=Library&message=jQuery&color=orange&style=plastic&logo=jQuery)
+![](https://img.shields.io/static/v1?label=Library&message=Discord.js&color=orange&style=plastic&logo=Discord)
 
 ### Graphic Design
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+![](https://img.shields.io/static/v1?label=Program&message=Photosho&color=orange&style=plastic&logo=adobe-photoshop)
+![](https://img.shields.io/static/v1?label=Program&message=Illustrator&color=orange&style=plastic&logo=adobe-illustrator)
+![](https://img.shields.io/static/v1?label=Program&message=InDesign&color=orange&style=plastic&logo=adobe-inDesign)
 
 ### IDE's I use
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio&color=orange&style=plastic&logo=visual-studio)
+![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio%20Code&color=orange&style=plastic&logo=visual-studio-code)
+![](https://img.shields.io/static/v1?label=IDE&message=IntelliJ%20IDEA&color=orange&style=plastic&logo=IntelliJ-IDEA)
 
 ## 📱 You can find me on: 
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
