@@ -8,7 +8,7 @@ As I said I am studying graphic design and technologies. I've been studying grap
 
 Personally I find programming more fun than graphic design and that's what I am prioritising. I love reading and learning about all things technology everyday. 
 
-In my free time I love to play a lot of games, program on some small projects and I love solving rubik cubes. 
+In my free time I love to play a lot of games, program on some small projects and I love solving rubik cubes. Favourite color and food are orange and french fries respectively!
 
 ## 🌱 Currently studying...
 I am currently studying ASP.NET with the Razor Framework as part of the school program. 
