@@ -1,5 +1,5 @@
 # Hi there 👋😃
-My name is Dennis Vasilev. 
+My name is Dennis Vasilev - Junior Developer and Graphic Designer! 
 
 I'm from Bulgaria and currently in the 11th grade as of 2020/2021 studying graphic design and technologies. 
 
