@@ -11,7 +11,7 @@ Personally I find programming more fun than graphic design and that's what I am 
 In my free time I love to play a lot of games, program on some small projects and I love solving rubik cubes. Favourite color and food are orange and french fries respectively! I also like green and red. My birthdate is 6th of Octomber.
 
 ## 🌱 Currently studying...
-I am currently studying ASP.NET with the Razor Framework as part of the school program. 
+I am currently studying Structured Query Language using mySQL. 
 
 In the past months I've used and been learning languages like: 
 * C# 
@@ -21,6 +21,7 @@ In the past months I've used and been learning languages like:
 Markup languages like 
 * HTML 
 * CSS 
+* Razor
 
 Frameworks like: 
 * Bootstrap 
@@ -49,11 +50,15 @@ Click 'n Fight: The Fantasy Clicker RPG - RPG Clicker game made in C#
 
 [Website](https://vassdeniss.github.io/clicknfight/)
 
-Pizza Clicker - Cookie Clicker clone in javaScript
+Pizza Clicker - Cookie Clicker clone in JavaScript
 
 [Git Page](https://github.com/vassdeniss/pizzaclicker)
 
 [Web Page](https://vassdeniss.github.io/pizzaclicker/)
+
+JChess - Chess engine from scratch in the java programming language
+
+[Git Page](https://github.com/vassdeniss/JavaChessGame)
 
 ## 🔧 Tools 
 ### Operating System
