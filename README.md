@@ -75,8 +75,6 @@ JChess - Chess engine from scratch in the java programming language
 ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=orange&style=plastic&logo=CSS3)
 ![](https://img.shields.io/static/v1?label=Tool&message=Node.js&color=orange&style=plastic&logo=Node.js)
 ![](https://img.shields.io/static/v1?label=Framework&message=Bootstrap&color=orange&style=plastic&logo=Bootstrap)
-![](https://img.shields.io/static/v1?label=Framework&message=Tailwind&color=orange&style=plastic&logo=Tailwind-CSS)
-![](https://img.shields.io/static/v1?label=Framework&message=Alpine.js&color=orange&style=plastic)
 ![](https://img.shields.io/static/v1?label=Library&message=jQuery&color=orange&style=plastic&logo=jQuery)
 ![](https://img.shields.io/static/v1?label=Library&message=Discord.js&color=orange&style=plastic&logo=Discord)
 
