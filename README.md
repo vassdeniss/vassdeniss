@@ -65,6 +65,7 @@ JChess - Chess engine from scratch in the java programming language
 ## 🔧 Tools 
 ### Operating System
 ![](https://img.shields.io/static/v1?label=OS&message=Windows&color=orange&style=plastic&logo=Windows)
+![](https://img.shields.io/static/v1?label=OS&message=MacOS&color=orange&style=plastic&logo=macOS)
 
 ### Programming
 ![](https://img.shields.io/static/v1?label=Code&message=CSharp&color=orange&style=plastic&logo=C-sharp)
