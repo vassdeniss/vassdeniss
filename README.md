@@ -10,6 +10,9 @@ Personally I find programming more fun than graphic design and that's what I am 
 
 In my free time I love to play a lot of games, program on some small projects and I love solving rubik cubes. Favourite color and food are orange and french fries respectively! I also like green and red. My birthdate is 6th of Octomber.
 
+## 📑Certificates 
+[Software University - Programming Basics C#](https://softuni.bg/certificates/details/112260/58fd4d38)
+
 ## 🌱 Currently studying...
 I am currently a student at Software University taking the Programming Basics with C# course!
 Also learning Unity in my free time :P
