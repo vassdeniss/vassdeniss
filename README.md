@@ -14,10 +14,10 @@ In my free time I love to play a lot of games, program on some small projects an
 [Software University - Programming Basics C#](https://softuni.bg/certificates/details/112260/58fd4d38)
 
 ## 🌱 Currently studying...
-I am currently a student at Software University taking the Programming Basics with C# course!
-Also learning Unity in my free time :P
+I am currently a student at Software University taking Programming Fundamentals with C#!
+Also learning a little bit of everything in my free time - Unity, Android Development, C++
 
-In the past months I've used and been learning languages like: 
+In the past year I've used and been learning languages like: 
 * C# 
 * JavaScript 
 * Java 
