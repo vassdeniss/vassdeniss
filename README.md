@@ -8,7 +8,7 @@ As I said I am studying graphic design and technologies. I've been studying grap
 
 Personally I find programming more fun than graphic design and that's what I am prioritising. I love reading and learning about all things technology everyday. 
 
-In my free time I love to play a lot of games, program on some small projects and I love solving rubik cubes. Favourite color and food are orange and french fries respectively! I also like green and red. My birthdate is 6th of Octomber.
+In my free time I love to play a lot of games, program on some small projects and I love solving rubik cubes. Favourite color and food are orange and french fries respectively! I also like green and red. My birthdate is 6th of October.
 
 ## 📑Certificates 
 [Software University - Programming Basics C# - July 2021](https://softuni.bg/certificates/details/112260/58fd4d38)
