@@ -1,7 +1,7 @@
 # Hi there 👋😃
 My name is Dennis Vasilev - Junior Developer and Graphic Designer! 
 
-I'm from Bulgaria and currently in the 11th grade as of 2020/2021 studying graphic design and technologies. 
+I'm from Bulgaria and currently in the 12th grade as of 2021/2022 studying graphic design and technologies. 
 
 ## 📗 Hobbies 
 As I said I am studying graphic design and technologies. I've been studying graphic design for 4 years now and computer science for half an year. 
