@@ -4,18 +4,18 @@ My name is Dennis Vasilev - Junior Developer and Graphic Designer!
 I'm from Bulgaria and currently in the 12th grade as of 2021/2022 studying graphic design and technologies. 
 
 ## 📗 Hobbies 
-As I said I am studying graphic design and technologies. I've been studying graphic design for 4 years now and computer science for half an year. 
+I've been studying graphic design for 4 years now and computer science for one year. 
 
 Personally I find programming more fun than graphic design and that's what I am prioritising. I love reading and learning about all things technology everyday. 
 
-In my free time I love to play a lot of games, program on some small projects and I love solving rubik cubes. Favourite color and food are orange and french fries respectively! I also like green and red. My birthdate is 6th of October.
+In my free time I love to play a lot of games, program on some small projects, solving puzzles or reading a book. Fun fact! My favourite color is orange! I also like green and red. My birthdate is 6th of October.
 
 ## 📑Certificates 
 [Software University - Programming Basics C# - July 2021](https://softuni.bg/certificates/details/112260/58fd4d38)
 
 ## 🌱 Currently studying...
 I am currently a student at Software University taking Programming Fundamentals with C#!
-Also learning a little bit of everything in my free time - Unity, Android Development, C++
+Also learning a little bit of everything in my free time - Unity, Android Development or whatever looks interesting :D
 
 In the past year I've used and been learning languages like: 
 * C# 
@@ -27,28 +27,26 @@ Markup languages like
 * CSS 
 * Razor
 
-Frameworks like: 
+Frameworks and Libraries like: 
 * Bootstrap 
 * jQuery 
-* Tailwind 
-* AlpineJs
+* Discord.js
 
-Libraries like: 
-* Discord.js 
-
-I've also been learning the basics of other languages like 
+I've also been interested anc have checked out other stuff like
 * C 
 * C++ 
 * Python 
 * Rust
 * SQL
+* Tailwind
+* AlpineJs
 
 ## 💻 Projects 
 Some of my projects (finished or unfinished) are already here on my github page, so feel free to take a look! 
 
-I've worked on many small projects for fun or just for practicing my skills in a language. I've made apps, a few games, bots and mostly websites for my own projects, friends that need a website made or for various school projects assigned. 
+I've worked on many small projects for fun or just for practicing my skills in a language. I've made apps, a few games, bots and mostly websites.
 
-There are a lot of things I wanna work on and there are a lot of things I want to learn but that will happen with enough time. 
+There are a lot of things I want to work on and there are a lot of things I want to learn, I am taking things slowly there is always going to be time to study. 
 
 ### 🥇 Proudest Projects
 Click 'n Fight: The Fantasy Clicker RPG - RPG Clicker game made in C#
