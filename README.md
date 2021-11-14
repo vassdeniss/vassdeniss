@@ -1,5 +1,5 @@
 # Hi there 👋😃
-My name is Dennis Vasilev - Junior Developer and Graphic Designer! 
+My name is Denis Vasilev - Junior Developer and Graphic Designer! 
 
 I'm from Bulgaria and currently in the 12th grade as of 2021/2022 studying graphic design and technologies. 
 
@@ -101,10 +101,6 @@ JChess - Chess engine from scratch in the java programming language
 <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 
 * **vassdeniss#0081**
-
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-* **vassdeniss@gmail.com**
 
 ## 📈 Github Stats
 
