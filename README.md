@@ -49,6 +49,10 @@ I've worked on many small projects for fun or just for practicing my skills in a
 There are a lot of things I want to work on and there are a lot of things I want to learn, I am taking things slowly there is always going to be time to study. 
 
 ### 🥇 Proudest Projects
+Tetris in a Console App - Tetris recreated in the console using C#
+
+[Git Page](https://github.com/vassdeniss/tetris-game-cs-console-app)
+
 Click 'n Fight: The Fantasy Clicker RPG - RPG Clicker game made in C#
 
 [Website](https://vassdeniss.github.io/clicknfight/)
