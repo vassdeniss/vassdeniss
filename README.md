@@ -14,11 +14,16 @@ In my free time I love to play a lot of games, program on some small projects, s
 [Software University - Programming Basics C# - July 2021](https://softuni.bg/certificates/details/112260/58fd4d38)
 
 ## 🌱 Currently studying...
-I am currently a student at Software University taking Programming Fundamentals with C#!
-Also learning a little bit of everything in my free time - Unity, Android Development or whatever looks interesting :D
+Currently a student at [Software University](https://softuni.bg/) and in active courses:
+* [Programming Fundamentals (C#) - September 2021](https://softuni.bg/trainings/3447/programming-fundamentals-with-csharp-september-2021)
 
-In the past year I've used and been learning languages like: 
-* C# 
+Upcoming courses:
+* [Algorithm Fundamentals (C#) - December 2021](https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021)
+* [Programming Advanced (C#) - January 2022](https://softuni.bg/trainings/3584/csharp-advanced-january-2022) 
+
+Also learning a little bit of everything in my free time like Unity, Android Development or whatever looks interesting :D
+
+I've used and been learning languages in my free time like: 
 * JavaScript 
 * Java 
 
@@ -37,7 +42,6 @@ I've also been interested anc have checked out other stuff like
 * C++ 
 * Python 
 * Rust
-* SQL
 * Tailwind
 * AlpineJs
 
@@ -78,7 +82,6 @@ JChess - Chess engine from scratch in the java programming language
 ![](https://img.shields.io/static/v1?label=Code&message=Java&color=orange&style=plastic&logo=Java)
 ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=orange&style=plastic&logo=HTML5)
 ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=orange&style=plastic&logo=CSS3)
-![](https://img.shields.io/static/v1?label=Tool&message=Node.js&color=orange&style=plastic&logo=Node.js)
 ![](https://img.shields.io/static/v1?label=Framework&message=Bootstrap&color=orange&style=plastic&logo=Bootstrap)
 ![](https://img.shields.io/static/v1?label=Library&message=jQuery&color=orange&style=plastic&logo=jQuery)
 ![](https://img.shields.io/static/v1?label=Library&message=Discord.js&color=orange&style=plastic&logo=Discord)
