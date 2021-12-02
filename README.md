@@ -11,7 +11,11 @@ Personally I find programming more fun than graphic design and that's what I am 
 In my free time I love to play a lot of games, program on some small projects, solving puzzles or reading a book. Fun fact! My favourite color is orange! I also like green and red. My birthdate is 6th of October.
 
 ## 📑Certificates 
-[Software University - Programming Basics C# - July 2021](https://softuni.bg/certificates/details/112260/58fd4d38)
+* [Software University - Programming Basics C# - July 2021](https://softuni.bg/certificates/details/112260/58fd4d38)
+
+## 🎓SoftUni Repositories
+* [Programming Basics C# - July 2021](https://github.com/vassdeniss/softuni-programming-basics-cs-july-solutions)
+* [Programming Fundamentals C# - September 2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions)
 
 ## 🌱 Currently studying...
 Currently a student at [Software University](https://softuni.bg/) and in active courses:
@@ -23,27 +27,23 @@ Upcoming courses:
 
 Also learning a little bit of everything in my free time like Unity, Android Development or whatever looks interesting :D
 
-I've used and been learning languages in my free time like: 
-* JavaScript 
-* Java 
+During my middle school learning program I've studied different technologies whether they're coding / markup languages or frameworks / libraries.
+I've also studied some other languages / libraries in my own free time out of pure curiosity.
 
-Markup languages like 
-* HTML 
-* CSS 
-* Razor
+| Coding Languages | Markup Languages | Framewoks / Libraries |
+|------------------|------------------|-----------------------|
+| C#               | HTML             | Bootstrap             |
+| JavaScript       | CSS              | jQuery                |
+| Java             | Razor            | Discord.js            |
 
-Frameworks and Libraries like: 
-* Bootstrap 
-* jQuery 
-* Discord.js
+Also in my free time I've been curious about these languages and frameworks / libraries too but have not gotten down to learning them.
 
-I've also been interested anc have checked out other stuff like
-* C 
-* C++ 
-* Python 
-* Rust
-* Tailwind
-* AlpineJs
+| Coding Languages | Framewoks / Libraries |
+|------------------|-----------------------|
+| C                | Tailwind              |
+| C++              | AlphineJs             |
+| Python           | Discord.js            |
+| Rust             |                       |
 
 ## 💻 Projects 
 Some of my projects (finished or unfinished) are already here on my github page, so feel free to take a look! 
