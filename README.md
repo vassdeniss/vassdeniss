@@ -17,6 +17,8 @@ In my free time I love to play a lot of games, program on some small projects, s
 * [Programming Basics C# - July 2021](https://github.com/vassdeniss/softuni-programming-basics-cs-july-solutions)
 * [Programming Fundamentals C# - September 2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions)
 
+* [Programming Basics JavaScript - November 2021 [SELF-TAUGHT]](https://github.com/vassdeniss/softuni-programming-basics-js-november-2021-solutions)
+
 ## 🌱 Currently studying...
 Currently a student at [Software University](https://softuni.bg/) and in active courses:
 * [Programming Fundamentals (C#) - September 2021](https://softuni.bg/trainings/3447/programming-fundamentals-with-csharp-september-2021)
