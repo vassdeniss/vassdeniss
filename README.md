@@ -108,10 +108,6 @@ JChess - Chess engine from scratch in the java programming language
 
 * My username is **vassdeniss** on all of them
 
-<img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-
-* **vassdeniss#0081**
-
 ## 📈 Github Stats
 
 <a href="https://github.com/vassdeniss/vassdeniss">
