@@ -17,12 +17,12 @@ In my free time I love to play a lot of games, program on some small projects, s
 ## 🎓SoftUni Repositories
 * [C# Basics - July 2021](https://github.com/vassdeniss/softuni-programming-basics-cs-july-solutions)
 * [C# Fundamentals - September 2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions)
-* [JavaScript Basics - November 2021 [SELF-TAUGHT]](https://github.com/vassdeniss/softuni-programming-basics-js-november-2021-solutions)
+* [JavaScript Basics - November 2021](https://github.com/vassdeniss/softuni-programming-basics-js-november-2021-solutions)
 * [Algorithm Fundamentals C# - December 2021](https://github.com/vassdeniss/softuni-algorithm-fundamentals-cs-december-2021-solutions)
 
 ## 🌱 Currently studying...
 Currently a student at [Software University](https://softuni.bg/) and in active courses:
-* [Algorithm Fundamentals (C#) - December 2021](https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021)
+* [Algorithm Fundamentals C# - December 2021](https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021)
 
 Upcoming courses:
 * [C# Advanced - January 2022](https://softuni.bg/trainings/3584/csharp-advanced-january-2022) 
