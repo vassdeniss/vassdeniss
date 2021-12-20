@@ -14,7 +14,7 @@ In my free time I love to play a lot of games, program on some small projects, s
 * [Software University - C# Basics - July 2021](https://softuni.bg/certificates/details/112260/58fd4d38)
 * [Software University - C# Fundamentals - September 2021](https://softuni.bg/certificates/details/119944/4c692338)
 
-## 🎓SoftUni Repositories
+## 🎓SoftUni Repositories (In order of participation)
 * [C# Basics - July 2021](https://github.com/vassdeniss/softuni-programming-basics-cs-july-solutions)
 * [C# Fundamentals - September 2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions)
 * [JavaScript Basics - November 2021](https://github.com/vassdeniss/softuni-programming-basics-js-november-2021-solutions)
