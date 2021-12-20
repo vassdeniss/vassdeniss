@@ -26,7 +26,6 @@ Currently a student at [Software University](https://softuni.bg/) and in active 
 
 Upcoming courses:
 * [C# Advanced - January 2022](https://softuni.bg/trainings/3584/csharp-advanced-january-2022) 
-* [C++ Basics - January 2022](https://softuni.bg/trainings/3654/programming-basics-with-cpp-january-2022)
 
 Also learning a little bit of everything in my free time like Unity, Android Development or whatever looks interesting :D
 
