@@ -25,7 +25,8 @@ Currently a student at [Software University](https://softuni.bg/) and in active 
 * [Algorithm Fundamentals C# - December 2021](https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021)
 
 Upcoming courses:
-* [C# Advanced - January 2022](https://softuni.bg/trainings/3584/csharp-advanced-january-2022) 
+* [C# Advanced - January 2022](https://softuni.bg/trainings/3584/csharp-advanced-january-2022)
+* [C# OOP - February 2022](https://softuni.bg/trainings/3585/csharp-oop-february-2022)
 
 Also learning a little bit of everything in my free time like Unity, Android Development or whatever looks interesting :D
 
