@@ -14,18 +14,23 @@ In my free time I love to play a lot of games, program on some small projects, s
 * [Software University - C# Basics - July 2021](https://softuni.bg/certificates/details/112260/58fd4d38)
 * [Software University - C# Fundamentals - September 2021](https://softuni.bg/certificates/details/119944/4c692338)
 
-## 🎓SoftUni Repositories (In order of participation)
-* [C# Basics - July 2021](https://github.com/vassdeniss/softuni-programming-basics-cs-july-solutions)
-* [C# Fundamentals - September 2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions)
-* [JavaScript Basics - November 2021](https://github.com/vassdeniss/softuni-programming-basics-js-november-2021-solutions)
-* [Algorithm Fundamentals C# - December 2021](https://github.com/vassdeniss/softuni-algorithm-fundamentals-cs-december-2021-solutions)
+## 🎓SoftUni Repositories
+* [Whole SoftUni Repository with more information](https://github.com/vassdeniss/software-university-courses)
+
+* [C# Basics](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-basics)
+* [C# Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-fundamentals)
+* [C# Advanced](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced)
+* [C# Algorithm Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals)
+* [JavaScript Basics](https://github.com/vassdeniss/software-university-courses/tree/master/js-basics)
+* [JavaScript Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals)
+
 
 ## 🌱 Currently studying...
 Currently a student at [Software University](https://softuni.bg/) and in active courses:
 * [Algorithm Fundamentals C# - December 2021](https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021)
+* [C# Advanced - January 2022](https://softuni.bg/trainings/3584/csharp-advanced-january-2022)
 
 Upcoming courses:
-* [C# Advanced - January 2022](https://softuni.bg/trainings/3584/csharp-advanced-january-2022)
 * [C# OOP - February 2022](https://softuni.bg/trainings/3585/csharp-oop-february-2022)
 
 Also learning a little bit of everything in my free time like Unity, Android Development or whatever looks interesting :D
