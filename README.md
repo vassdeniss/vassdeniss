@@ -15,7 +15,7 @@ In my free time I love to play a lot of games, program on some small projects, s
 * [Software University - C# Fundamentals - September 2021](https://softuni.bg/certificates/details/119944/4c692338)
 
 ## 🎓SoftUni Repositories
-* [Whole SoftUni Repository with more information](https://github.com/vassdeniss/software-university-courses)
+* [SoftUni](https://github.com/vassdeniss/software-university-courses)
 
 * [C# Basics](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-basics)
 * [C# Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-fundamentals)
@@ -27,7 +27,6 @@ In my free time I love to play a lot of games, program on some small projects, s
 
 ## 🌱 Currently studying...
 Currently a student at [Software University](https://softuni.bg/) and in active courses:
-* [Algorithm Fundamentals C# - December 2021](https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021)
 * [C# Advanced - January 2022](https://softuni.bg/trainings/3584/csharp-advanced-january-2022)
 
 Upcoming courses:
