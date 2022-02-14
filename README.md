@@ -17,18 +17,18 @@ In my free time I love to play a lot of games, program on some small projects, s
 
 ## 🎓SoftUni Repositories
 * [SoftUni](https://github.com/vassdeniss/software-university-courses)
-
 * [C# Basics](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-basics)
 * [C# Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-fundamentals)
 * [C# Advanced](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced)
 * [C# Algorithm Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals)
+* [C# Data Structures Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-fundamentals)
 * [JavaScript Basics](https://github.com/vassdeniss/software-university-courses/tree/master/js-basics)
 * [JavaScript Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals)
-
 
 ## 🌱 Currently studying...
 Currently a student at [Software University](https://softuni.bg/) and in active courses:
 * [C# Advanced - January 2022](https://softuni.bg/trainings/3584/csharp-advanced-january-2022)
+* [C# Data Structures Fundamentals - February 2022](https://softuni.bg/trainings/3672/data-structures-fundamentals-with-csharp-february-2022)
 
 Upcoming courses:
 * [C# OOP - February 2022](https://softuni.bg/trainings/3585/csharp-oop-february-2022)
