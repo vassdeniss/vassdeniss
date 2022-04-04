@@ -1,23 +1,52 @@
-# Hi there 👋😃
+# Hi there :wave: :smiley:
 My name is Denis Vasilev - Junior Developer and Graphic Designer! 
 
-I'm from Bulgaria and currently in the 12th grade as of 2021/2022 studying graphic design and technologies. 
+I live in Sofia, Bulgaria currently in the 12th grade as of 2021/2022 studying graphic design and technologies.
 
-## 📗 Hobbies 
-I've been studying graphic design for 4 years now and computer science for one year. 
+## Contents
+1. [:green_book: About Me](#green_book-about-me)  
+  1.1 [:fountain_pen: Education](#fountain_pen-education)  
+  1.2 [:joystick: Free Time](#joystick-free-time)  
+2. [:computer: @ SoftUni](#computer-my-time--softuni)  
+  2.1 [:bookmark_tabs: Certificates](#bookmark_tabs-certificates)  
+  2.2 [:mortar_board: SoftUni Repositories](#mortar_board-softuni-repositories)  
+  2.3 [:seedling: Currently studying...](#seedling-currently-studying)  
+3. [:computer: Projects](#computer-projects)  
+  3.1 [:1st_place_medal: Proudest Projects](#1st_place_medal-proudest-projects)  
+4. [Other](#other)
+5. [:wrench: Tools](#wrench-tools)  
+  5.1 [Operating System](#operating-system)  
+  5.2 [Programming](#programming)  
+  5.3 [Graphic Design](#graphic-design)  
+  5.4 [IDEs](#ides)  
+6. [:iphone: Socials](#iphone-socials)  
+7. [:chart_with_upwards_trend: Github Stats](#chart_with_upwards_trend-github-stats)
 
-Personally I find programming more fun than graphic design and that's what I am prioritising. I love reading and learning about all things technology everyday. 
+## :green_book: About Me
 
-In my free time I love to play a lot of games, program on some small projects, solving puzzles or reading a book. Fun fact! My favourite color is orange! I also like green and red. My birthdate is 6th of October.
+### :fountain_pen: Education
 
-## 📑Certificates 
+| Type | Status | Points of Intrest |
+| ---- | ------ | ------------------ |
+| Elementary | Finished - 7 Years | None |
+| Middle | Ongoing | Grade 9 - 2018:<br />I started studying graphic design with photoshop<br />Grade 10 - 2019:<br />I continued my graphic design path with illustrator<br />Grade 11 - 2020:<br />I deepened my graphic design skills with the addition of inDesign / Started programming with C#<br />Grade 12 - 2021: L I T E R A T U R E |
+| High | Not Started | TBA |
+
+### :joystick: Free Time
+In my free time I usually play video games, solve cube puzzles, hang out with people, practice my programming and even sometimes read books that catch my attention. 
+
+---
+
+## :computer: My Time @ Softuni
+
+### :bookmark_tabs: Certificates
 * [Software University - C# Basics - July 2021](https://softuni.bg/certificates/details/112260/58fd4d38)
 * [Software University - C# Fundamentals - September 2021](https://softuni.bg/certificates/details/119944/4c692338)
 * [Software University - C# Algorithms Fundamentals - December 2021](https://softuni.bg/certificates/details/123073/ced81e47)
 * [Software University - C# Advanced - January 2022](https://softuni.bg/certificates/details/123677/93a93ca5)
 * [Software University - C# Data Structures Fundamentals - February 2022](https://softuni.bg/certificates/details/127938/164b87e7)
 
-## 🎓SoftUni Repositories
+### :mortar_board: SoftUni Repositories
 * [SoftUni](https://github.com/vassdeniss/software-university-courses)
 * [C# Basics](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-basics)
 * [C# Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-fundamentals)
@@ -28,38 +57,18 @@ In my free time I love to play a lot of games, program on some small projects, s
 * [JavaScript Basics](https://github.com/vassdeniss/software-university-courses/tree/master/js-basics)
 * [JavaScript Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals)
 
-## 🌱 Currently studying...
-Currently a student at [Software University](https://softuni.bg/) and in active courses:
+### :seedling: Currently studying...
+In active courses:
 * [C# OOP - February 2022](https://softuni.bg/trainings/3585/csharp-oop-february-2022)
 
-Also learning a little bit of everything in my free time like Unity, Android Development or whatever looks interesting :D
+---
 
-During my middle school learning program I've studied different technologies whether they're coding / markup languages or frameworks / libraries.
-I've also studied some other languages / libraries in my own free time out of pure curiosity.
+## :computer: Projects 
+Some of my projects (finished or unfinished) are already on my github, so feel free to take a look! I have worked mainly on small projects for fun and / or for practicing my skills.
 
-| Coding Languages | Markup Languages | Framewoks / Libraries |
-|------------------|------------------|-----------------------|
-| C#               | HTML             | Bootstrap             |
-| JavaScript       | CSS              | jQuery                |
-| Java             | Razor            | Discord.js            |
+There are a lot of things I want to work on and there are a lot of things I want to learn, I am taking things little by little though there is no reason to rush. 
 
-Also in my free time I've been curious about these languages and frameworks / libraries too but have not gotten down to learning them.
-
-| Coding Languages | Framewoks / Libraries |
-|------------------|-----------------------|
-| C                | Tailwind              |
-| C++              | AlphineJs             |
-| Python           | Discord.js            |
-| Rust             |                       |
-
-## 💻 Projects 
-Some of my projects (finished or unfinished) are already here on my github page, so feel free to take a look! 
-
-I've worked on many small projects for fun or just for practicing my skills in a language. I've made apps, a few games, bots and mostly websites.
-
-There are a lot of things I want to work on and there are a lot of things I want to learn, I am taking things slowly there is always going to be time to study. 
-
-### 🥇 Proudest Projects
+### :1st_place_medal: Proudest Projects
 Tetris in a Console App - Tetris recreated in the console using C#
 
 [Git Page](https://github.com/vassdeniss/tetris-game-cs-console-app)
@@ -78,7 +87,30 @@ JChess - Chess engine from scratch in the java programming language
 
 [Git Page](https://github.com/vassdeniss/JavaChessGame)
 
-## 🔧 Tools 
+---
+
+## Other
+
+During my middle school learning program I have studied different technologies whether they're coding / markup languages, frameworks / libraries or programs as for example my most recent programs I have gotten basic knowledge in include *Unity* and *Android Studio*.
+
+| Coding Languages | Markup Languages | Framewoks / Libraries |
+|------------------|------------------|-----------------------|
+| C#               | HTML             | Bootstrap             |
+| JavaScript       | CSS              | jQuery                |
+| Java             | Razor            | Discord.js            |
+
+In my free time I have been curious about some languages and frameworks and libraries too but have learned them only on a very basic level.
+
+| Coding Languages | Framewoks / Libraries |
+|------------------|-----------------------|
+| C                | Tailwind              |
+| C++              | AlphineJs             |
+| Python           | Discord.js            |
+| Rust             |                       |
+
+---
+
+## :wrench: Tools 
 ### Operating System
 ![](https://img.shields.io/static/v1?label=OS&message=Windows&color=orange&style=plastic&logo=Windows)
 ![](https://img.shields.io/static/v1?label=OS&message=MacOS&color=orange&style=plastic&logo=macOS)
@@ -87,10 +119,6 @@ JChess - Chess engine from scratch in the java programming language
 ![](https://img.shields.io/static/v1?label=Code&message=CSharp&color=orange&style=plastic&logo=C-sharp)
 ![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=orange&style=plastic&logo=JavaScript)
 ![](https://img.shields.io/static/v1?label=Code&message=Java&color=orange&style=plastic&logo=Java)
-![](https://img.shields.io/static/v1?label=Code&message=HTML&color=orange&style=plastic&logo=HTML5)
-![](https://img.shields.io/static/v1?label=Code&message=CSS&color=orange&style=plastic&logo=CSS3)
-![](https://img.shields.io/static/v1?label=Framework&message=Bootstrap&color=orange&style=plastic&logo=Bootstrap)
-![](https://img.shields.io/static/v1?label=Library&message=jQuery&color=orange&style=plastic&logo=jQuery)
 ![](https://img.shields.io/static/v1?label=Library&message=Discord.js&color=orange&style=plastic&logo=Discord)
 
 ### Graphic Design
@@ -98,22 +126,22 @@ JChess - Chess engine from scratch in the java programming language
 ![](https://img.shields.io/static/v1?label=Program&message=Illustrator&color=orange&style=plastic&logo=adobe-illustrator)
 ![](https://img.shields.io/static/v1?label=Program&message=InDesign&color=orange&style=plastic&logo=adobe-inDesign)
 
-### IDE's I use
+### IDEs
 ![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio&color=orange&style=plastic&logo=visual-studio)
 ![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio%20Code&color=orange&style=plastic&logo=visual-studio-code)
 ![](https://img.shields.io/static/v1?label=IDE&message=IntelliJ%20IDEA&color=orange&style=plastic&logo=IntelliJ-IDEA)
 
-## 📱 You can find me on: 
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-<img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
-<img alt="PlayStation Network" src="https://img.shields.io/badge/PSN-%230070D1.svg?&style=for-the-badge&logo=Playstation&logoColor=white"/>
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> 
+---
 
-* My username is **vassdeniss** on all of them
+## :iphone: Socials:
+Github (You are already here :>)  
+[Stack Overflow](https://stackoverflow.com/users/15445509/vassdeniss)  
+Discord (Private but you could direct message me about it if you want it that much)  
+[Playstation Network](https://psnprofiles.com/vassdeniss)  
+[Steam](https://steamcommunity.com/id/tmmthegamer/)  
+[Twitter](https://twitter.com/vassdeniss)  
 
-## 📈 Github Stats
-
+## :chart_with_upwards_trend: Github Stats
 <a href="https://github.com/vassdeniss/vassdeniss">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vassdeniss&line_height=27&count_private=true&show_icons=true&theme=great-gatsby&include_all_commits=true" />
 </a>
@@ -121,7 +149,7 @@ JChess - Chess engine from scratch in the java programming language
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vassdeniss&theme=chartreuse-dark&langs_count=3&hide=scss,less" />
 </a>
 
-# Thanks for visiting my profile! Have a nice day! 😉
+# Thanks for visiting my profile! Have a very safe and productive day! :wink:
 
 <!--
 **vassdeniss/vassdeniss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
