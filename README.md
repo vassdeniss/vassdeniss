@@ -8,9 +8,10 @@ I live in Sofia, Bulgaria currently in the 12th grade as of 2021/2022 studying g
   1.1 [:fountain_pen: Education](#fountain_pen-education)  
   1.2 [:joystick: Free Time](#joystick-free-time)  
 2. [:computer: @ SoftUni](#computer-my-time--softuni)  
-  2.1 [:bookmark_tabs: Certificates](#bookmark_tabs-certificates)  
-  2.2 [:mortar_board: SoftUni Repositories](#mortar_board-softuni-repositories)  
-  2.3 [:seedling: Currently studying...](#seedling-currently-studying)  
+  2.1 [:construction_worker: Work](#construction_worker-work)  
+  2.2 [:bookmark_tabs: Certificates](#bookmark_tabs-certificates)  
+  2.3 [:mortar_board: SoftUni Repositories](#mortar_board-softuni-repositories)  
+  2.4 [:seedling: Currently studying...](#seedling-currently-studying)  
 3. [:computer: Projects](#computer-projects)  
   3.1 [:1st_place_medal: Proudest Projects](#1st_place_medal-proudest-projects)  
 4. [Other](#other)
@@ -38,6 +39,12 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 ---
 
 ## :computer: My Time @ Softuni
+
+### :construction_worker: Work
+* Currently working as a *Curriculum Specialist* @ [Softuni Svetlina](https://svetlina.softuni.bg/)
+* Work Experience:
+  * *Curriculum Specialist* @ [Softuni Svetlina](https://svetlina.softuni.bg/) 
+    * April 2022 / Ongoing
 
 ### :bookmark_tabs: Certificates
 * [Software University - C# Basics - July 2021](https://softuni.bg/certificates/details/112260/58fd4d38)
@@ -135,6 +142,7 @@ In my free time I have been curious about some languages and frameworks and libr
 
 ## :iphone: Socials:
 Github (You are already here :>)  
+[LinkedIn](https://www.linkedin.com/in/denis-vasilev-vassdeniss/)  
 [Stack Overflow](https://stackoverflow.com/users/15445509/vassdeniss)  
 Discord (Private but you could direct message me about it if you want it that much)  
 [Playstation Network](https://psnprofiles.com/vassdeniss)  
