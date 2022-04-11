@@ -52,6 +52,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [Software University - C# Algorithms Fundamentals - December 2021](https://softuni.bg/certificates/details/123073/ced81e47)
 * [Software University - C# Advanced - January 2022](https://softuni.bg/certificates/details/123677/93a93ca5)
 * [Software University - C# Data Structures Fundamentals - February 2022](https://softuni.bg/certificates/details/127938/164b87e7)
+* [Software University - C# OOP - February 2022](https://softuni.bg/certificates/details/131010/c54612b6)
 
 ### :mortar_board: SoftUni Repositories
 * [SoftUni](https://github.com/vassdeniss/software-university-courses)
@@ -66,7 +67,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 
 ### :seedling: Currently studying...
 In active courses:
-* [C# OOP - February 2022](https://softuni.bg/trainings/3585/csharp-oop-february-2022)
+N/A
 
 ---
 
