@@ -22,6 +22,7 @@ I live in Sofia, Bulgaria currently in the 12th grade as of 2021/2022 studying g
   5.4 [IDEs](#ides)  
 6. [:iphone: Socials](#iphone-socials)  
 7. [:chart_with_upwards_trend: Github Stats](#chart_with_upwards_trend-github-stats)
+8. [:trophy: Github Trophies](#trophy-github-trophies)
 
 ## :green_book: About Me
 
@@ -159,7 +160,7 @@ Discord (Private but you could direct message me about it if you want it that mu
 </a>
 
 ## :trophy: Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=vassdeniss&theme=discord&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vassdeniss&theme=monokai&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Thanks for visiting my profile! Have a very safe and productive day! :wink:
 
