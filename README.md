@@ -158,6 +158,9 @@ Discord (Private but you could direct message me about it if you want it that mu
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vassdeniss&theme=chartreuse-dark&langs_count=3&hide=scss,less" />
 </a>
 
+## :trophy: Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=vassdeniss&theme=discord&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 # Thanks for visiting my profile! Have a very safe and productive day! :wink:
 
 <!--
