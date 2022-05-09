@@ -67,7 +67,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [JavaScript Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals)
 
 ### :seedling: Currently studying...
-In active courses: [Microsoft Structured Query Language](https://softuni.bg/trainings/3714/ms-sql-may-2022)
+In active courses: [Microsoft Structured Query Language](https://softuni.bg/trainings/3714/ms-sql-may-2022)  
 Upcoming courses: [Entity Framework Core](https://softuni.bg/trainings/3709/entity-framework-core-june-2022)
 
 ---
