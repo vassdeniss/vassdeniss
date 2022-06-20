@@ -1,7 +1,7 @@
 # Hi there :wave: :smiley:
 My name is Denis Vasilev - Junior Developer and Graphic Designer! 
 
-I live in Sofia, Bulgaria currently in the 12th grade as of 2021/2022 studying graphic design and technologies.
+I live in Sofia, Bulgaria currently studying and working at Software University as of 2022.
 
 ## Contents
 1. [:green_book: About Me](#green_book-about-me)  
@@ -31,7 +31,7 @@ I live in Sofia, Bulgaria currently in the 12th grade as of 2021/2022 studying g
 | Type | Status | Points of Intrest |
 | ---- | ------ | ------------------ |
 | Elementary | Finished - 7 Years | None |
-| Middle | Ongoing | Grade 9 - 2018:<br />I started studying graphic design with photoshop<br />Grade 10 - 2019:<br />I continued my graphic design path with illustrator<br />Grade 11 - 2020:<br />I deepened my graphic design skills with the addition of inDesign / Started programming with C#<br />Grade 12 - 2021: L I T E R A T U R E |
+| Middle | Finished - 5 Years | Grade 9 - 2018:<br />I started studying graphic design with photoshop<br />Grade 10 - 2019:<br />I continued my graphic design path with illustrator<br />Grade 11 - 2020:<br />I deepened my graphic design skills with the addition of inDesign / Started programming with C#<br />Grade 12 - 2021: L I T E R A T U R E |
 | High | Not Started | TBA |
 
 ### :joystick: Free Time
@@ -54,6 +54,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [Software University - C# Advanced - January 2022](https://softuni.bg/certificates/details/123677/93a93ca5)
 * [Software University - C# Data Structures Fundamentals - February 2022](https://softuni.bg/certificates/details/127938/164b87e7)
 * [Software University - C# OOP - February 2022](https://softuni.bg/certificates/details/131010/c54612b6)
+* [Software University - MS SQL - May 2022](https://softuni.bg/certificates/details/134968/6699df29)
 
 ### :mortar_board: SoftUni Repositories
 * [SoftUni](https://github.com/vassdeniss/software-university-courses)
@@ -63,12 +64,12 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [C# OOP](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop)
 * [C# Data Structures Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-fundamentals)
 * [C# Algorithm Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals)
+* [MS SQL](https://github.com/vassdeniss/software-university-courses/tree/master/mssql)
 * [JavaScript Basics](https://github.com/vassdeniss/software-university-courses/tree/master/js-basics)
 * [JavaScript Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals)
 
 ### :seedling: Currently studying...
-In active courses: [Microsoft Structured Query Language](https://softuni.bg/trainings/3714/ms-sql-may-2022)  
-Upcoming courses: [Entity Framework Core](https://softuni.bg/trainings/3709/entity-framework-core-june-2022)
+In active courses: [Entity Framework Core](https://softuni.bg/trainings/3709/entity-framework-core-june-2022)
 
 ---
 
