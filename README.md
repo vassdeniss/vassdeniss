@@ -11,7 +11,6 @@ I live in Sofia, Bulgaria currently studying and working at Software University 
   2.1 [:construction_worker: Work](#construction_worker-work)  
   2.2 [:bookmark_tabs: Certificates](#bookmark_tabs-certificates)  
   2.3 [:mortar_board: SoftUni Repositories](#mortar_board-softuni-repositories)  
-  2.4 [:seedling: Currently studying...](#seedling-currently-studying)  
 3. [:computer: Projects](#computer-projects)  
   3.1 [:1st_place_medal: Proudest Projects](#1st_place_medal-proudest-projects)  
 4. [Other](#other)
