@@ -31,7 +31,7 @@ I live in Sofia, Bulgaria currently studying and working at Software University 
 | ---- | ------ | ------------------ |
 | Elementary | Finished - 7 Years | None |
 | Middle | Finished - 5 Years | Grade 9 - 2018:<br />I started studying graphic design with photoshop<br />Grade 10 - 2019:<br />I continued my graphic design path with illustrator<br />Grade 11 - 2020:<br />I deepened my graphic design skills with the addition of inDesign / Started programming with C#<br />Grade 12 - 2021: L I T E R A T U R E |
-| High | Not Started | TBA |
+| High | In Progress | TBA |
 
 ### :joystick: Free Time
 In my free time I usually play video games, solve cube puzzles, hang out with people, practice my programming and even sometimes read books that catch my attention. 
@@ -70,32 +70,23 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [EF Core](https://github.com/vassdeniss/software-university-courses/tree/master/ef-core)
 * [JavaScript Basics](https://github.com/vassdeniss/software-university-courses/tree/master/js-basics)
 * [JavaScript Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals)
+* [WPF Essentials](https://github.com/vassdeniss/Chess-Engine-Wpf)
 
 ---
 
 ## :computer: Projects 
-Some of my projects (finished or unfinished) are already on my github, so feel free to take a look! I have worked mainly on small projects for fun and / or for practicing my skills.
-
-There are a lot of things I want to work on and there are a lot of things I want to learn, I am taking things little by little though there is no reason to rush. 
+Some of my projects (finished or unfinished) are already on my github, so feel free to take a look! I have worked mainly on small projects for fun and / or for practicing my skills. 
 
 ### :1st_place_medal: Proudest Projects
-Tetris in a Console App - Tetris recreated in the console using C#
+[WPF Chess Engine](https://github.com/vassdeniss/Chess-Engine-Wpf) - Chess engine from scratch in the c# programming language using WPF / XAML
 
-[Git Page](https://github.com/vassdeniss/tetris-game-cs-console-app)
+[Tetris in a Console App](https://github.com/vassdeniss/tetris-game-cs-console-app) - Tetris recreated in the console using C#
 
-Click 'n Fight: The Fantasy Clicker RPG - RPG Clicker game made in C#
+[Click 'n Fight: The Fantasy Clicker RPG](https://vassdeniss.github.io/clicknfight/) - RPG Clicker game made in C#
 
-[Website](https://vassdeniss.github.io/clicknfight/)
+[Pizza Clicker](https://github.com/vassdeniss/pizzaclicker) - Cookie Clicker clone in JavaScript
 
-Pizza Clicker - Cookie Clicker clone in JavaScript
-
-[Git Page](https://github.com/vassdeniss/pizzaclicker)
-
-[Web Page](https://vassdeniss.github.io/pizzaclicker/)
-
-JChess - Chess engine from scratch in the java programming language
-
-[Git Page](https://github.com/vassdeniss/JavaChessGame)
+[JChess](https://github.com/vassdeniss/JavaChessGame) - Chess engine from scratch in the java programming language
 
 ---
 
