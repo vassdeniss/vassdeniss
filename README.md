@@ -68,6 +68,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [C# Algorithm Advanced](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-advanced)
 * [MS SQL](https://github.com/vassdeniss/software-university-courses/tree/master/mssql)
 * [EF Core](https://github.com/vassdeniss/software-university-courses/tree/master/ef-core)
+* [HMTL & CSS](https://github.com/vassdeniss/software-university-courses/tree/master/html-css)
 * [JavaScript Basics](https://github.com/vassdeniss/software-university-courses/tree/master/js-basics)
 * [JavaScript Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals)
 * [WPF Essentials](https://github.com/vassdeniss/Chess-Engine-Wpf)
