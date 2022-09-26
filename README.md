@@ -93,22 +93,19 @@ Some of my projects (finished or unfinished) are already on my github, so feel f
 
 ## Other
 
-During my middle school learning program I have studied different technologies whether they're coding / markup languages, frameworks / libraries or programs as for example my most recent programs I have gotten basic knowledge in include *Unity* and *Android Studio*.
+During my middle school learning program I have studied different technologies whether they're coding / markup languages, frameworks / libraries mainly in my own free time.
 
 | Coding Languages | Markup Languages | Framewoks / Libraries |
 |------------------|------------------|-----------------------|
 | C#               | HTML             | Bootstrap             |
 | JavaScript       | CSS              | jQuery                |
-| Java             | Razor            | Discord.js            |
+| Java             |                  | Discord.js            |
 
-In my free time I have been curious about some languages and frameworks and libraries too but have learned them only on a very basic level.
-
-| Coding Languages | Framewoks / Libraries |
-|------------------|-----------------------|
-| C                | Tailwind              |
-| C++              | AlphineJs             |
-| Python           | Discord.js            |
-| Rust             |                       |
+These technologies have mainly been used to:
+* Introduction to programming (C#)
+* Create simple pages for school projects (HTML / CSS / Bootstrap / jQuery / JavaScript)
+* Write minecraft mods (Java)
+* Write discord bots for my friends / personal use (JavaScript / Discord.js)
 
 ---
 
