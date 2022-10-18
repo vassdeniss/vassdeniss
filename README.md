@@ -3,6 +3,9 @@ My name is Denis Vasilev - Junior Developer and Graphic Designer!
 
 I live in Sofia, Bulgaria currently studying and working at Software University as of 2022.
 
+![GitHub Snake Light](https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ## Contents
 1. [:green_book: About Me](#green_book-about-me)  
   1.1 [:fountain_pen: Education](#fountain_pen-education)  
