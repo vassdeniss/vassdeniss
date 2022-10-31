@@ -58,6 +58,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [Software University - C# OOP - February 2022](https://softuni.bg/certificates/details/131010/c54612b6)
 * [Software University - MS SQL - May 2022](https://softuni.bg/certificates/details/134968/6699df29)
 * [Software University - EF Core - June 2022](https://softuni.bg/certificates/details/138414/5c455176)
+* [Software University - ASP.NET Fundamentals - September 2022](https://softuni.bg/certificates/details/146678/1324fd9c)
 
 ### :mortar_board: SoftUni Repositories
 * [SoftUni](https://github.com/vassdeniss/software-university-courses)
@@ -71,6 +72,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [C# Algorithm Advanced](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-advanced)
 * [MS SQL](https://github.com/vassdeniss/software-university-courses/tree/master/mssql)
 * [EF Core](https://github.com/vassdeniss/software-university-courses/tree/master/ef-core)
+* [ASP.NET Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/asp-net-fundamentals)
 * [HMTL & CSS](https://github.com/vassdeniss/software-university-courses/tree/master/html-css)
 * [JavaScript Basics](https://github.com/vassdeniss/software-university-courses/tree/master/js-basics)
 * [JavaScript Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals)
