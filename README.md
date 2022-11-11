@@ -59,6 +59,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [Software University - MS SQL - May 2022](https://softuni.bg/certificates/details/134968/6699df29)
 * [Software University - EF Core - June 2022](https://softuni.bg/certificates/details/138414/5c455176)
 * [Software University - ASP.NET Fundamentals - September 2022](https://softuni.bg/certificates/details/146678/1324fd9c)
+* [Software University - HTML & CSS - September 2022](https://softuni.bg/certificates/details/147271/0a157bca)
 
 ### :mortar_board: SoftUni Repositories
 * [SoftUni](https://github.com/vassdeniss/software-university-courses)
