@@ -60,6 +60,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [Software University - EF Core - June 2022](https://softuni.bg/certificates/details/138414/5c455176)
 * [Software University - ASP.NET Fundamentals - September 2022](https://softuni.bg/certificates/details/146678/1324fd9c)
 * [Software University - HTML & CSS - September 2022](https://softuni.bg/certificates/details/147271/0a157bca)
+* [Software University - ASP.NET Advanced - October 2022](https://softuni.bg/certificates/details/152385/e664ef46)
 
 ### :mortar_board: SoftUni Repositories
 * [SoftUni](https://github.com/vassdeniss/software-university-courses)
@@ -74,6 +75,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [MS SQL](https://github.com/vassdeniss/software-university-courses/tree/master/mssql)
 * [EF Core](https://github.com/vassdeniss/software-university-courses/tree/master/ef-core)
 * [ASP.NET Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/asp-net-fundamentals)
+* [ASP.NET Advanced](https://github.com/vassdeniss/EasyRank-Web-App)
 * [HMTL & CSS](https://github.com/vassdeniss/software-university-courses/tree/master/html-css)
 * [JavaScript Basics](https://github.com/vassdeniss/software-university-courses/tree/master/js-basics)
 * [JavaScript Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals)
@@ -85,6 +87,8 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 Some of my projects (finished or unfinished) are already on my github, so feel free to take a look! I have worked mainly on small projects for fun and / or for practicing my skills. 
 
 ### :1st_place_medal: Proudest Projects
+[Easy Rank](https://github.com/vassdeniss/EasyRank-Web-App) - A website for creating your own 'Top 10' style pages using ASP.NET Core MVC
+
 [WPF Chess Engine](https://github.com/vassdeniss/Chess-Engine-Wpf) - Chess engine from scratch in the c# programming language using WPF / XAML
 
 [Tetris in a Console App](https://github.com/vassdeniss/tetris-game-cs-console-app) - Tetris recreated in the console using C#
