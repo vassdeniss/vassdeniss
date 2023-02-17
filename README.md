@@ -99,6 +99,8 @@ Some of my projects (finished or unfinished) are already on my github, so feel f
 
 [JChess](https://github.com/vassdeniss/JavaChessGame) - Chess engine from scratch in the java programming language
 
+[JavaScript Solitaire](https://github.com/vassdeniss/JavaScript-Solitaire) - The popular solitaire game in the browser
+
 ---
 
 ## Other
