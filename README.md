@@ -64,6 +64,8 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [Software University - ASP.NET Advanced - October 2022](https://softuni.bg/certificates/details/152385/e664ef46)
 * [Software University - JavaScript Advanced - January 2023](https://softuni.bg/certificates/details/160237/ba61796f)
 * [Software University - JavaScript Applications - February 2023](https://softuni.bg/certificates/details/167850/a1b73bb2)
+* [Software University - Containers & Cloud - May 2023](https://softuni.bg/certificates/details/174382/3d8404f6)
+* [Udemy - Beginning C++ Programming - From Beginner to Beyond - April 2023](https://www.udemy.com/certificate/UC-91fae3f0-d0bc-4b0c-8f61-0b3c334fc0dd/)
 
 ### :mortar_board: SoftUni Repositories
 * [SoftUni](https://github.com/vassdeniss/software-university-courses)
@@ -84,6 +86,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [JavaScript Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals)
 * [JavaScript Advanced](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced)
 * [JavaScript Applications](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps)
+* [JavaScript Backend](https://github.com/vassdeniss/software-university-courses/tree/master/js-backend)
 * [WPF Essentials](https://github.com/vassdeniss/Chess-Engine-Wpf)
 
 ---
