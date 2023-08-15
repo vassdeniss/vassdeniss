@@ -67,6 +67,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [Software University - Containers & Cloud - May 2023](https://softuni.bg/certificates/details/174382/3d8404f6)
 * [Udemy - Beginning C++ Programming - From Beginner to Beyond - April 2023](https://www.udemy.com/certificate/UC-91fae3f0-d0bc-4b0c-8f61-0b3c334fc0dd/)
 * [Software University - JavaScript Backend - May 2023](https://softuni.bg/certificates/details/182064/30bd9555)
+* [Software University - Angular - June 2023](https://softuni.bg/certificates/details/182933/897ddf29)
 
 ### :mortar_board: SoftUni Repositories
 * [SoftUni](https://github.com/vassdeniss/software-university-courses)
@@ -88,6 +89,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [JavaScript Advanced](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced)
 * [JavaScript Applications](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps)
 * [JavaScript Backend](https://github.com/vassdeniss/software-university-courses/tree/master/js-backend)
+* [Angular](https://github.com/vassdeniss/Legoview-Angular)
 * [WPF Essentials](https://github.com/vassdeniss/Chess-Engine-Wpf)
 
 ---
@@ -96,6 +98,8 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 Some of my projects (finished or unfinished) are already on my github, so feel free to take a look! I have worked mainly on small projects for fun and / or for practicing my skills. 
 
 ### :1st_place_medal: Proudest Projects
+[LegoView](https://github.com/vassdeniss/Legoview-Angular) - A website for creating reviews on your own managed lego collection built with Angular / Express
+
 [Easy Rank](https://github.com/vassdeniss/EasyRank-Web-App) - A website for creating your own 'Top 10' style pages using ASP.NET Core MVC
 
 [WPF Chess Engine](https://github.com/vassdeniss/Chess-Engine-Wpf) - Chess engine from scratch in the c# programming language using WPF / XAML
