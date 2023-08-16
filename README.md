@@ -68,6 +68,7 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 * [Udemy - Beginning C++ Programming - From Beginner to Beyond - April 2023](https://www.udemy.com/certificate/UC-91fae3f0-d0bc-4b0c-8f61-0b3c334fc0dd/)
 * [Software University - JavaScript Backend - May 2023](https://softuni.bg/certificates/details/182064/30bd9555)
 * [Software University - Angular - June 2023](https://softuni.bg/certificates/details/182933/897ddf29)
+* [Software University - Software Engineering & DevOps - June 2023](https://softuni.bg/certificates/details/183235/28a300f8)
 
 ### :mortar_board: SoftUni Repositories
 * [SoftUni](https://github.com/vassdeniss/software-university-courses)
