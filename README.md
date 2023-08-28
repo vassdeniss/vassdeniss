@@ -51,7 +51,8 @@ In my free time I usually play video games, solve cube puzzles, hang out with pe
 
 ### :bookmark_tabs: Certificates
 * [Software University - C# Full-Stack Developer Diploma - August 2023](https://softuni.bg/certificates/details/185059/ecca5fe4)  
-* [Software University - C# Web Developer Diploma - April 2023](https://softuni.bg/certificates/details/169762/a94c5837)  
+* [Software University - C# Web Developer Diploma - April 2023](https://softuni.bg/certificates/details/169762/a94c5837)
+* [Software University - JavaScript Web Developer Diploma - August 2023](https://softuni.bg/certificates/details/185265/b217f706)  
 * [Software University - C# Basics - July 2021](https://softuni.bg/certificates/details/112260/58fd4d38)
 * [Software University - C# Fundamentals - September 2021](https://softuni.bg/certificates/details/119944/4c692338)
 * [Software University - C# Algorithms Fundamentals - December 2021](https://softuni.bg/certificates/details/123073/ced81e47)
